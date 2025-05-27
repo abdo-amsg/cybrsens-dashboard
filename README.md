@@ -1,1 +1,1 @@
-# cybrsens-dashboard
+# CybrSens
